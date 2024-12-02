@@ -28,6 +28,3 @@ This repository can be used for:
 - **Image Classification**: Train and evaluate models to classify chicken images as cooked or uncooked.
 - **Benchmarking**: Test various deep learning models and compare performance.
 - **Educational Use**: Learn how to work with image datasets, deep learning models, and TensorFlow.
-
-## How to Use
-1. Clone this repository:
